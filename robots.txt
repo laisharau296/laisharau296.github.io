@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap:https://laisharau296.github.io/sitemap.xml
